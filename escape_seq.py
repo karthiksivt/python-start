@@ -25,3 +25,13 @@ print("She is \t awesome") #with escape sequence
 print("\\\" \\n \\t \\\'")
 
 print("\\")
+
+#raw string to print
+#short cut for the above
+
+print(r"hello ///.""'\\\\\ ")
+print(f"hello ///.'\\\\\ ")
+
+#print emojies
+# this is the unicode of smiley U+1F600	, in the place of + replace 3 000 and at start backslash
+print("\U0001F600")
