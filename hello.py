@@ -42,5 +42,14 @@
 
 # to check keywords in python 
 
-import keyword
-print(keyword.kwlist)
+# import keyword
+# print(keyword.kwlist)
+
+# 33 keywords
+
+# keywords cant be used as variable name
+
+#identifiers
+
+
+
